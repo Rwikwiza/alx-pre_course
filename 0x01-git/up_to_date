@@ -1,1 +1,3 @@
 this is a new file called up_to_date, created with echo
+i used the command git pull to pull date from github to my server
+i then used the command echo to create the file up_to_date
