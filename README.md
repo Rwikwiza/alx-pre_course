@@ -1,2 +1,2 @@
-My first readme
-I am editing it from here, for the first and last time aparently
+A pre-course Repo, 
+being introduced to programming by the great minds of ALX
